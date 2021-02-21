@@ -43,7 +43,7 @@ const FitnessScreen = () => {
         contentContainerStyle={{ margin: 16 }}
         ListHeaderComponent={
           <>
-            <Text style={{ fontSize: 18, fontWeight: "bold" }}>
+            <Text style={{ fontSize: 18, fontWeight: "bold",alignSelf: 'center' }}>
               Yoga And Workouts
             </Text>
             
