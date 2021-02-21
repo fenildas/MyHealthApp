@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
     flex: 2,
     display: "flex",
     justifyContent: "space-around",
-    backgroundColor: '#fff'
+    backgroundColor: '#f4f2f5'
   },
   logo:{
     
@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     paddingBottom: 8,
     alignSelf: "center",
     borderColor: "#ccc",
-    backgroundColor:"#f4f2f5"
+    backgroundColor:"#fff"
     
   },
   loginText: {
